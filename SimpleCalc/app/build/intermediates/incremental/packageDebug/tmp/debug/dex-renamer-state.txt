@@ -1,0 +1,4 @@
+#Mon Oct 31 23:38:24 YEKT 2022
+base.0=C\:\\Users\\funti\\AndroidStudioProjects\\SimpleCalc\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

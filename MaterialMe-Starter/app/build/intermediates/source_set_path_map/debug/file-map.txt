@@ -1,0 +1,16 @@
+com.example.android.materialme.app-cardview-v7-28.0.0-alpha3-0 C:\Users\funti\.gradle\caches\transforms-3\58b60ab6059c772828c2e10db1da4edf\transformed\cardview-v7-28.0.0-alpha3\res
+com.example.android.materialme.app-appcompat-v7-28.0.0-1 C:\Users\funti\.gradle\caches\transforms-3\6b4a2e82381d94828436df45404462f6\transformed\appcompat-v7-28.0.0\res
+com.example.android.materialme.app-design-28.0.0-alpha3-2 C:\Users\funti\.gradle\caches\transforms-3\70dc5f7086176fce58d573cd1396a6b0\transformed\design-28.0.0-alpha3\res
+com.example.android.materialme.app-recyclerview-v7-28.0.0-alpha3-3 C:\Users\funti\.gradle\caches\transforms-3\776e0af2238d87f4d61ebe9f196257d4\transformed\recyclerview-v7-28.0.0-alpha3\res
+com.example.android.materialme.app-constraint-layout-2.0.4-4 C:\Users\funti\.gradle\caches\transforms-3\a0ff3340122196c62dc7f7e74a22f7c5\transformed\constraint-layout-2.0.4\res
+com.example.android.materialme.app-coordinatorlayout-28.0.0-5 C:\Users\funti\.gradle\caches\transforms-3\b1633334360715cfe3a6f8adb06e849c\transformed\coordinatorlayout-28.0.0\res
+com.example.android.materialme.app-support-compat-28.0.0-6 C:\Users\funti\.gradle\caches\transforms-3\ecbd23666767c8ec76a81939f74c71e4\transformed\support-compat-28.0.0\res
+com.example.android.materialme.app-transition-28.0.0-alpha3-7 C:\Users\funti\.gradle\caches\transforms-3\ee8aeb6bafe9f34cac124e9da225ea97\transformed\transition-28.0.0-alpha3\res
+com.example.android.materialme.app-pngs-8 C:\Users\funti\AndroidStudioProjects\MaterialMe-Starter\app\build\generated\res\pngs\debug
+com.example.android.materialme.app-resValues-9 C:\Users\funti\AndroidStudioProjects\MaterialMe-Starter\app\build\generated\res\resValues\debug
+com.example.android.materialme.app-rs-10 C:\Users\funti\AndroidStudioProjects\MaterialMe-Starter\app\build\generated\res\rs\debug
+com.example.android.materialme.app-mergeDebugResources-11 C:\Users\funti\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.materialme.app-mergeDebugResources-12 C:\Users\funti\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.materialme.app-merged_res-13 C:\Users\funti\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\merged_res\debug
+com.example.android.materialme.app-debug-14 C:\Users\funti\AndroidStudioProjects\MaterialMe-Starter\app\src\debug\res
+com.example.android.materialme.app-main-15 C:\Users\funti\AndroidStudioProjects\MaterialMe-Starter\app\src\main\res

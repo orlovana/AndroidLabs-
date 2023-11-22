@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.android.materialme.app-mergeDebugResources-11:/values-mcc600-land/values-mcc600-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\funti\\AndroidStudioProjects\\MaterialMe-Starter\\app\\src\\main\\res\\values-mcc600-land\\integers.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "49",
+                        "endOffsets": "102"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                }
+            ]
+        }
+    ]
+}

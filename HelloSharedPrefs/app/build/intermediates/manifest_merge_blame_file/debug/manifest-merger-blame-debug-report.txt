@@ -1,0 +1,61 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright 2016 Google Inc.
+4
+5Licensed under the Apache License, Version 2.0 (the "License");
+6you may not use this file except in compliance with the License.
+7You may obtain a copy of the License at
+8
+9    http://www.apache.org/licenses/LICENSE-2.0
+10
+11Unless required by applicable law or agreed to in writing, software
+12distributed under the License is distributed on an "AS IS" BASIS,
+13WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14See the License for the specific language governing permissions and
+15limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.hellosharedprefs"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="16"
+23-->C:\Users\funti\AndroidStudioProjects\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+24        android:targetSdkVersion="32" />
+24-->C:\Users\funti\AndroidStudioProjects\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+25
+26    <application
+26-->C:\Users\funti\AndroidStudioProjects\HelloSharedPrefs\app\src\main\AndroidManifest.xml:18:5-31:19
+27        android:allowBackup="true"
+27-->C:\Users\funti\AndroidStudioProjects\HelloSharedPrefs\app\src\main\AndroidManifest.xml:19:9-35
+28        android:debuggable="true"
+29        android:icon="@mipmap/ic_launcher"
+29-->C:\Users\funti\AndroidStudioProjects\HelloSharedPrefs\app\src\main\AndroidManifest.xml:20:9-43
+30        android:label="@string/app_name"
+30-->C:\Users\funti\AndroidStudioProjects\HelloSharedPrefs\app\src\main\AndroidManifest.xml:21:9-41
+31        android:supportsRtl="true"
+31-->C:\Users\funti\AndroidStudioProjects\HelloSharedPrefs\app\src\main\AndroidManifest.xml:22:9-35
+32        android:testOnly="true"
+33        android:theme="@style/AppTheme" >
+33-->C:\Users\funti\AndroidStudioProjects\HelloSharedPrefs\app\src\main\AndroidManifest.xml:23:9-40
+34        <activity
+34-->C:\Users\funti\AndroidStudioProjects\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:9-30:20
+35            android:name="com.example.android.hellosharedprefs.MainActivity"
+35-->C:\Users\funti\AndroidStudioProjects\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:19-47
+36            android:exported="true" >
+36-->C:\Users\funti\AndroidStudioProjects\HelloSharedPrefs\app\src\main\AndroidManifest.xml:25:13-36
+37            <intent-filter>
+37-->C:\Users\funti\AndroidStudioProjects\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:13-29:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\funti\AndroidStudioProjects\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:17-69
+38-->C:\Users\funti\AndroidStudioProjects\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\funti\AndroidStudioProjects\HelloSharedPrefs\app\src\main\AndroidManifest.xml:28:17-77
+40-->C:\Users\funti\AndroidStudioProjects\HelloSharedPrefs\app\src\main\AndroidManifest.xml:28:27-74
+41            </intent-filter>
+42        </activity>
+43    </application>
+44
+45</manifest>
